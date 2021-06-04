@@ -1,1 +1,0 @@
-# A-Secure-Searchable-Encryption-Framework-for-Privacy-Critical-Cloud-Storage-Services
